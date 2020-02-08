@@ -5,14 +5,14 @@
 题目描述
 ----
 
-链接：[走你╭(′▽`)╯](https://www.luogu.com.cn/problem/P1111)
+链接：[走你╭(′▽`)╯](https://www.luogu.com.cn/problem/P1601)
 
 题目描述
 高精度加法,相当于a+b problem，不用考虑负数.
 
 输入格式
 ---
-分两行输入。a,b<=10^500^ 
+分两行输入。a,b<=10^500
 
 输出格式
 ---
